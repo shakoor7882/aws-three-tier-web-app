@@ -719,4 +719,4 @@ In order to clean up the resources in the AWS account and avoid incurring any ot
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the LICENSE file
